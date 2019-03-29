@@ -19,9 +19,11 @@ Use this exercise to practice writing conditionals!
 Starter code is available in [`lib/challenge.js`](lib/challenge.js). You are not
 required to turn in your submission.
 
+Open the `lib/index.html` file in your browser, either directly or by using the live server. Then open the console and inspect your work!
+
 ## Requirements
 
-Open up the `lib/` directory in VS Code and work through the prompts in
+Open up the `lib/` directory in VSCode and work through the prompts in
 `challenge.js`. **Make a commit after completing each prompt**
 
 ## [License](LICENSE)
